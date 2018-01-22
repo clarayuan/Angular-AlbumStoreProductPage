@@ -1,0 +1,19 @@
+{
+  "id": 2,
+  "artist": "Regular Expressionists",
+  "album": {
+    "name": "Top, Right, Bottom, Left",
+    "releaseDate": "September 25, 2015",
+    "coverImage": "assets/secondalbum.jpg",
+    "tracks": [
+      {"trackNumber": 1, "trackName": "track1", "trackLength": "4:48", "trackPrice": 0.99 },
+      {"trackNumber": 2, "trackName": "track2", "trackLength": "3:13", "trackPrice": 0.99 },
+      {"trackNumber": 3, "trackName": "track3 Carpet", "trackLength": "3:42", "trackPrice": 0.99 },
+      {"trackNumber": 4, "trackName": "track4 to Mars", "trackLength": "4:31", "trackPrice": 0.99 },
+      {"trackNumber": 5, "trackName": "track5, not Run", "trackLength": "2:53", "trackPrice": 0.99 },
+      {"trackNumber": 6, "trackName": "track6", "trackLength": "5:12", "trackPrice": 0.99 },
+      {"trackNumber": 7, "trackName": "track7 Cart", "trackLength": "9:07", "trackPrice": 0.99 },
+      {"trackNumber": 8, "trackName": "track8 Gift to You", "trackLength": "3:59", "trackPrice": 0.99 }
+    ]
+  }
+}
